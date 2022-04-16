@@ -14,6 +14,7 @@ public class StringMethods2 {
         System.out.println("================================================================");
 
         // 2. Check equality of two String ignoring case
+
         System.out.println("2. Equality ignoring case: " + str1.equalsIgnoreCase(str2));
 
         // Contains will check one string contains another string considering case-sensitive
